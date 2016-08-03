@@ -8,8 +8,10 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
         
         <style>
-
+            .wrestlingpics{
             
+            }
+
             
         </style>
 
@@ -39,14 +41,21 @@
         <!--jumbotron ends-->
         
         <!--About me begins-->
-        <div class="container-fluid">
+        <div class="container-fluid aboutme">
             <div class="row">
                 <h2 class="text-center">A little about Myself<h2>
             </div>
             <div class="row">
-                <div class="col-xs-4"><p class="text-center">I is smart</p></div>
-                <div class="col-xs-4"><p class="text-center">I is smart</p></div>
-                <div class="col-xs-4"><p class="text-center">I is smart</p></div>
+                <div class="col-xs-4">
+                    <p class="text-center">I is smart</p><br/>
+                    <img class="img-responsive img-rounded wrestlingpics" src="images/district.jpg" width="70%"  height="70%">
+                </div>
+                <div class="col-xs-4">
+                    <p class="text-center">I is smart</p>
+                </div>
+                <div class="col-xs-4">
+                    <p class="text-center">I is smart</p>
+                </div>
             </div>
         </div>
         <!--about me ends>
