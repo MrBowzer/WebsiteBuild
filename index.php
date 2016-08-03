@@ -8,10 +8,38 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
         
         <style>
-            .wrestlingpics{
-            
+        
+        /*    .wrestlingpics{
+             margin-top:20px;
+             margin-bottom:20px;
+             margin-left:20px;
+             margin-right:20px;
             }
+        */
+        
+        .jumbotron{
+          margin-bottom:0px;
+          padding-top: 100px;
+          padding-bottom: 50px;
 
+        }
+        
+        .story{
+           background-color:#00ff00; 
+           padding-top: 40px;
+           padding-bottom: 60px;
+           padding-right: 100px;
+           padding-left: 100px;
+        }
+        
+        .aboutme{
+            padding-top: 40px;
+            padding-bottom: 60px;
+            padding-left: 100px;
+            padding-right: 100px;
+            
+        }
+        
             
         </style>
 
@@ -40,25 +68,34 @@
         </div>
         <!--jumbotron ends-->
         
-        <!--About me begins-->
-        <div class="container-fluid aboutme">
+       <!--my story-->
+        <div class="container-fluid col-xs-12 text-center story">
+            <h3>Who am I </h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        </div>
+        <!--story ends-->
+            
+            
+         <!--About me begins-->
+        <div class="container-fluid col-xs-12 text-center aboutme">
             <div class="row">
-                <h2 class="text-center">A little about Myself<h2>
+                <h2 class="">A little about Myself<h2>
             </div>
             <div class="row">
                 <div class="col-xs-4">
-                    <p class="text-center">I is smart</p><br/>
-                    <img class="img-responsive img-rounded wrestlingpics" src="images/district.jpg" width="70%"  height="70%">
+                    <p class="">I is smart</p><br/>
                 </div>
                 <div class="col-xs-4">
-                    <p class="text-center">I is smart</p>
+                    <p class="">I is smart</p>
                 </div>
                 <div class="col-xs-4">
-                    <p class="text-center">I is smart</p>
+                    <p class="">I is smart</p>
                 </div>
             </div>
         </div>
-        <!--about me ends>
+        <!--about me ends-->
+        
+        
         
     </body>
 
