@@ -44,6 +44,10 @@
             border-radius:50%;
         }
         
+        .center-align{
+            text-align:center;
+        }
+        
             
         </style>
 
@@ -83,23 +87,23 @@
          <!--About me begins-->
         <div class="container-fluid xs-2 text-center aboutme">
             <div class="row">
-                <h2 class="">A little about Myself<h2>
+                <h2>A little about Myself</h2>
             </div>
             
             <div class="row">
-                <div class="col-xs-4">
+                <div class="col-xs-4 center-align">
                     <p>This is me getting second in my district</p>
-                    <img src="images/district.jpg" class="img-responsive">
+                   <img src="images/district.jpg">
                 </div>
                 
-                <div class="col-xs-4">
+                 <div class="col-xs-4 center-align">
                     <p>This is me getting second in my district</p>
-                    <img src="images/district.jpg" class="img-responsive">
+                    <img src="images/district.jpg">
                 </div>
                 
-                 <div class="col-xs-4">
+                 <div class="col-xs-4 center-align">
                     <p>This is me getting second in my district</p>
-                    <img src="images/district.jpg" class="img-responsive">
+                    <img src="images/district.jpg">
                 </div>
                 
                 
