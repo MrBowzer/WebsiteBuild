@@ -40,6 +40,10 @@
             
         }
         
+        .img-responsive {
+            border-radius:50%;
+        }
+        
             
         </style>
 
@@ -69,7 +73,7 @@
         <!--jumbotron ends-->
         
        <!--my story-->
-        <div class="container-fluid col-xs-12 text-center story">
+        <div class="container-fluid xs-1 text-center story">
             <h3>Who am I </h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
         </div>
@@ -77,20 +81,28 @@
             
             
          <!--About me begins-->
-        <div class="container-fluid col-xs-12 text-center aboutme">
+        <div class="container-fluid xs-2 text-center aboutme">
             <div class="row">
                 <h2 class="">A little about Myself<h2>
             </div>
+            
             <div class="row">
                 <div class="col-xs-4">
-                    <p class="">I is smart</p><br/>
+                    <p>This is me getting second in my district</p>
+                    <img src="images/district.jpg" class="img-responsive">
                 </div>
+                
                 <div class="col-xs-4">
-                    <p class="">I is smart</p>
+                    <p>This is me getting second in my district</p>
+                    <img src="images/district.jpg" class="img-responsive">
                 </div>
-                <div class="col-xs-4">
-                    <p class="">I is smart</p>
+                
+                 <div class="col-xs-4">
+                    <p>This is me getting second in my district</p>
+                    <img src="images/district.jpg" class="img-responsive">
                 </div>
+                
+                
             </div>
         </div>
         <!--about me ends-->
