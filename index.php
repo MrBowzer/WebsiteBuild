@@ -17,6 +17,13 @@
             }
         */
         
+        .intro{ 
+            padding-top:18%;
+            padding-bottom:18%;
+            
+        }
+        
+        
         .jumbotron{
           margin-bottom:0px;
           padding-top: 100px;
@@ -48,6 +55,7 @@
             text-align:center;
         }
         
+
             
         </style>
 
@@ -71,8 +79,11 @@
         
         <!--jumbotron begins-->
         <div class="jumbotron text-center">
-            <h1>Welcome to the Website</h1>
-            <p>Where Im going to learn how to bulid a site step by step</p>
+            <!--Image goes here-->
+            <div class="container intro">
+                <h1>Welcome to the Website</h1>
+                <p>Where Im going to learn how to bulid a site step by step</p>
+            </div>
         </div>
         <!--jumbotron ends-->
         
@@ -106,11 +117,13 @@
                     <img src="images/district.jpg">
                 </div>
                 
-                
             </div>
         </div>
         <!--about me ends-->
         
+        <div class="container-fluid xs-2 text-center">
+            
+        </div>
         
         
     </body>
