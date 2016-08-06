@@ -6,14 +6,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!--link to bootstrap-->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-        <!--link to font Lato-->
-       <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
         <style>
         
-        .html{
-            font-family:'Lato', sans-serif !important;
-        }
-
         .jumbotron{
           margin-bottom:0px;
           padding-top: 20%;
@@ -101,7 +95,7 @@
             <div class="row">
                 <div class="col-xs-9">
                     <h3>Who am I </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam blandit quam ut diam tincidunt pulvinar. Proin condimentum interdum lorem facilisis tincidunt. Nulla et magna arcu. Sed sollicitudin, magna sit amet blandit vestibulum, nisi sem cursus lacus, vel tristique leo ligula eu lorem. Nulla facilisis elit lacus, placerat mattis nulla porttitor sit amet. Aenean id pellentesque est, quis ultricies lacus. Praesent sodales imperdiet orci sed aliquet. Sed dapibus mattis consectetur. In sit amet risus quis dolor egestas posuere.</p>
                 </div>  
                 <div class="col-xs-3">
                     <img src="images/pro.jpg" width="300" height="450">
@@ -121,23 +115,27 @@
             
             <div class="row">
                 <div class="col-xs-4 center-align">
-                    <p>This is me getting second in my district</p>
+                    <p>This is me getting second in my districtLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam blandit quam ut diam tincidunt pulvinar. Proin condimentum interdum lorem facilisis tincidunt. Nulla et magna arcu. Sed sollicitudin, magna sit amet blandit vestibulum, nisi sem cursus lacus, vel tristique leo ligula eu lorem. Nulla facilisis elit lacus, placerat mattis nulla porttitor sit amet. Aenean id pellentesque est, quis ultricies lacus. Praesent sodales imperdiet orci sed aliquet. Sed dapibus mattis consectetur. In sit amet risus quis dolor egestas posuere.</p>
                    <img src="images/district.jpg">
                 </div>
                 
                  <div class="col-xs-4 center-align">
-                    <p>This is me getting second in my district</p>
+                    <p>This is me getting second in my district Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam blandit quam ut diam tincidunt pulvinar. Proin condimentum interdum lorem facilisis tincidunt. Nulla et magna arcu. Sed sollicitudin, magna sit amet blandit vestibulum, nisi sem cursus lacus, vel tristique leo ligula eu lorem. Nulla facilisis elit lacus, placerat mattis nulla porttitor sit amet. Aenean id pellentesque est, quis ultricies lacus. Praesent sodales imperdiet orci sed aliquet. Sed dapibus mattis consectetur. In sit amet risus quis dolor egestas posuere.</p>
                     <img src="images/district.jpg">
                 </div>
                 
                  <div class="col-xs-4 center-align">
-                    <p>This is me getting second in my district</p>
+                    <p>This is me getting second in my district Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam blandit quam ut diam tincidunt pulvinar. Proin condimentum interdum lorem facilisis tincidunt. Nulla et magna arcu. Sed sollicitudin, magna sit amet blandit vestibulum, nisi sem cursus lacus, vel tristique leo ligula eu lorem. Nulla facilisis elit lacus, placerat mattis nulla porttitor sit amet. Aenean id pellentesque est, quis ultricies lacus. Praesent sodales imperdiet orci sed aliquet. Sed dapibus mattis consectetur. In sit amet risus quis dolor egestas posuere.</p>
                     <img src="images/district.jpg">
                 </div>
                 
             </div>
         </div>
         <!--about me ends-->
+        
+        <!--footer begins-->
+            
+        <!--footer ends-->
         
         <div class="container-fluid xs-2 text-center">
             
