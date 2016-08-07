@@ -7,6 +7,11 @@
         <!--link to bootstrap-->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
         <style>
+        .navbar{
+            margin-bottom:0px;
+            width:100%;
+            opacity:.7;
+        }
         
         .jumbotron{
           margin-bottom:0px;
@@ -62,7 +67,32 @@
     </head>
     
     <body>
-
+    <!--Navbar starts-->
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collaspe" data-target="#myNavbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">Website Build</a>
+                </div>
+                <div class="collaspe navbar-collapse" id="myNavbar">
+                    <ul class="nav navbar-nav">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">My Hobbies</a></li>
+                        <li><a href="#">Who am I</a></li>
+                        <li><a href="#">Who am I</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#">Designed and Deveolped by: Samir</a></li>
+                    </ul>
+               </div>
+            </div>
+        </nav>
+        <!--Navbar ends-->
         
         <!--jumbotron begins-->
         <div class="jumbotron text-center">
